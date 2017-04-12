@@ -9,3 +9,6 @@ http://rebrickable.com/downloads/
 
 Goal:
 Find interesting aspects of the datas to present in the form of a two-slide presentation.
+
+Additional Visualization:
+https://public.tableau.com/profile/publish/LegoThemes/Sheet1#!/publish-confirm
